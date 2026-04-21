@@ -1,6 +1,6 @@
 # 📒 Miniguia de Estudos com NotebookLM  
 ## Controle Financeiro Pessoal e o Impacto dos Juros no Dia a Dia
-
+https://notebooklm.google.com/notebook/0bc53ae2-1ae4-400c-a00f-28de16621429
 ---
 
 ## 🧠 Entendendo o Desafio
